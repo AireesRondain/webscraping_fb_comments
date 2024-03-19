@@ -1,2 +1,2 @@
-# webscraping_fb_comments
-Scraped customer reviews and sentiments from a noodle manufacturer's Facebook page to analyze public opinion and feedback.
+# Analyzing Facebook Comments using LLM
+By harnessing OpenAI's GPT-3.5, a cutting-edge large language model (LLM), we've significantly accelerated the analysis of customer reviews and sentiments, providing rapid insights into consumer feedback. This swift and deep analysis allows businesses to swiftly adapt and innovate, ensuring their product remains at the forefront of the market by understanding and addressing customer needs and preferences in real-time.
